@@ -1,1 +1,2 @@
 Changing the file content in -1 branch
+Chaging the content entirely in +1 branch
